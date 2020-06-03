@@ -1,0 +1,296 @@
+Student Name: Rashmi Banarjee
+Roll No: 161230015
+Supervisor Name: Dr. Veena Alias Konda
+Assigned Topic for Project: Big Data Analytics
+----------------------------------------------------------------
+Student Name: Abhinav Balan
+Roll No: 161230020
+Supervisor Name: Dr. Pamela Malhotra
+Assigned Topic for Project: Automation
+----------------------------------------------------------------
+Student Name: Lilavati Luthra
+Roll No: 161220011
+Supervisor Name: Dr. Virat Shankar
+Assigned Topic for Project: App Development
+----------------------------------------------------------------
+Student Name: Vihaan Bhavsar
+Roll No: 161220059
+Supervisor Name: Dr. Pamela Malhotra
+Assigned Topic for Project: Automation
+----------------------------------------------------------------
+Student Name: Aditi Chatterjee
+Roll No: 161220009
+Supervisor Name: Dr. Abhishek Negi
+Assigned Topic for Project: Analytics Based on Social Networking Data
+----------------------------------------------------------------
+Student Name: Chhavi Sen
+Roll No: 161220039
+Supervisor Name: Dr. Deepesh Talwar
+Assigned Topic for Project: Arduino
+----------------------------------------------------------------
+Student Name: Pratyush Buch
+Roll No: 161220045
+Supervisor Name: Dr. Tanay Singh
+Assigned Topic for Project: Deep Learning
+----------------------------------------------------------------
+Student Name: Pratyush Buch
+Roll No: 161210015
+Supervisor Name: Dr. Samir Somani
+Assigned Topic for Project: Computer Networks
+----------------------------------------------------------------
+Student Name: Isha Issac
+Roll No: 161210001
+Supervisor Name: Dr. Smriti Modi
+Assigned Topic for Project: DBMS
+----------------------------------------------------------------
+Student Name: Malati Anand
+Roll No: 161210047
+Supervisor Name: Dr. Aayushi Nazareth
+Assigned Topic for Project: Gesture Recognition
+----------------------------------------------------------------
+Student Name: Aalok Sampath
+Roll No: 161210062
+Supervisor Name: Dr. Pamela Malhotra
+Assigned Topic for Project: Automation
+----------------------------------------------------------------
+Student Name: Sai Gera
+Roll No: 161210019
+Supervisor Name: Dr. Javed Lala
+Assigned Topic for Project: MATLAB
+----------------------------------------------------------------
+Student Name: Ishani Deo
+Roll No: 161210064
+Supervisor Name: Dr. Smriti Modi
+Assigned Topic for Project: DBMS
+----------------------------------------------------------------
+Student Name: Pratik Rau
+Roll No: 161210036
+Supervisor Name: Dr. Deepesh Talwar
+Assigned Topic for Project: Arduino
+----------------------------------------------------------------
+Student Name: Amit Murthy
+Roll No: 161210022
+Supervisor Name: Dr. Mukund Nayan
+Assigned Topic for Project: Web Development
+----------------------------------------------------------------
+Student Name: Vishal Karpe
+Roll No: 161210061
+Supervisor Name: Dr. Veena Alias Konda
+Assigned Topic for Project: Big Data Analytics
+----------------------------------------------------------------
+Student Name: Kani Mangal
+Roll No: 161210028
+Supervisor Name: Dr. Akanksha Raj Aggarwal
+Assigned Topic for Project: Machine Learning
+----------------------------------------------------------------
+Student Name: Shanaya Kuruvilla
+Roll No: 161210046
+Supervisor Name: Dr. Sunita Preet Nayak
+Assigned Topic for Project: Data Science
+----------------------------------------------------------------
+Student Name: Bhavana Raja
+Roll No: 161210032
+Supervisor Name: Dr. Smriti Modi
+Assigned Topic for Project: DBMS
+----------------------------------------------------------------
+Student Name: Akash Upadhyay
+Roll No: 161210049
+Supervisor Name: Dr. Jayshree Gagrani
+Assigned Topic for Project: Wireless Communications
+----------------------------------------------------------------
+Student Name: Vijaya Grewal
+Roll No: 161210057
+Supervisor Name: Dr. Mukund Nayan
+Assigned Topic for Project: Web Development
+----------------------------------------------------------------
+Student Name: Lavanya Kurpal
+Roll No: 161210012
+Supervisor Name: Dr. Virat Shankar
+Assigned Topic for Project: App Development
+----------------------------------------------------------------
+Student Name: Ila Butala
+Roll No: 161210019
+Supervisor Name: Dr. Mukund Nayan
+Assigned Topic for Project: Web Development
+----------------------------------------------------------------
+Student Name: Padma Rai
+Roll No: 161210008
+Supervisor Name: Dr. Tanay Singh
+Assigned Topic for Project: Deep Learning
+----------------------------------------------------------------
+Student Name: Asmita Sabharwal
+Roll No: 161210050
+Supervisor Name: Dr. Javed Lala
+Assigned Topic for Project: MATLAB
+----------------------------------------------------------------
+Student Name: Viti Comar
+Roll No: 161210030
+Supervisor Name: Dr. Veena Alias Konda
+Assigned Topic for Project: Big Data Analytics
+----------------------------------------------------------------
+Student Name: Ananya Narula
+Roll No: 161210044
+Supervisor Name: Dr. Jayshree Gagrani
+Assigned Topic for Project: Wireless Communications
+----------------------------------------------------------------
+Student Name: Surendra Chahal
+Roll No: 161210006
+Supervisor Name: Dr. Samir Somani
+Assigned Topic for Project: Computer Networks
+----------------------------------------------------------------
+Student Name: Mahendra Parmar
+Roll No: 161220010
+Supervisor Name: Dr. Pamela Malhotra
+Assigned Topic for Project: Automation
+----------------------------------------------------------------
+Student Name: Anala Dhawan
+Roll No: 161220056
+Supervisor Name: Dr. Tanay Singh
+Assigned Topic for Project: Deep Learning
+----------------------------------------------------------------
+Student Name: Aparna Mehan
+Roll No: 161220050
+Supervisor Name: Dr. Aayushi Nazareth
+Assigned Topic for Project: Gesture Recognition
+----------------------------------------------------------------
+Student Name: Abhishek Chakraborty
+Roll No: 161210031
+Supervisor Name: Dr. Somnath Rao Ramanathan
+Assigned Topic for Project: DBMS
+----------------------------------------------------------------
+Student Name: Ankit Kumar
+Roll No: 161220009
+Supervisor Name: Dr. Ramesh Kumar
+Assigned Topic for Project: Arduino
+----------------------------------------------------------------
+Student Name: Mukesh Kumar
+Roll No: 161210039
+Supervisor Name: Dr. Javed Lala
+Assigned Topic for Project: MATLAB
+----------------------------------------------------------------
+Student Name: Uma Tiwari
+Roll No: 161210044
+Supervisor Name: Dr. Ramesh Kumar
+Assigned Topic for Project: Arduino
+----------------------------------------------------------------
+Student Name: Saraswati Sunder
+Roll No: 161210006
+Supervisor Name: Dr. Virat Shankar
+Assigned Topic for Project: App Development
+----------------------------------------------------------------
+Student Name: Ayush Sarna
+Roll No: 161230006
+Supervisor Name: Dr. Sapna Sengupta
+Assigned Topic for Project: Wireless Communications
+----------------------------------------------------------------
+Student Name: Indu Savant
+Roll No: 161210010
+Supervisor Name: Dr. Pamela Malhotra
+Assigned Topic for Project: Automation
+----------------------------------------------------------------
+Student Name: Rati Om
+Roll No: 161210056
+Supervisor Name: Dr. Javed Lala
+Assigned Topic for Project: MATLAB
+----------------------------------------------------------------
+Student Name: Asmita Choudhary
+Roll No: 161220050
+Supervisor Name: Dr. Veena Alias Konda
+Assigned Topic for Project: Big Data Analytics
+----------------------------------------------------------------
+Student Name: Rashmi Sridhar
+Roll No: 161210045
+Supervisor Name: Dr. Jaswant Sampath
+Assigned Topic for Project: Gesture Recognition
+----------------------------------------------------------------
+Student Name: Nisha Sangha
+Roll No: 161210052
+Supervisor Name: Dr. Somnath Rao Ramanathan
+Assigned Topic for Project: DBMS
+----------------------------------------------------------------
+Student Name: Dayita Pau
+Roll No: 161220036
+Supervisor Name: Dr. Somnath Rao Ramanathan
+Assigned Topic for Project: DBMS
+----------------------------------------------------------------
+Student Name: Janya Shan
+Roll No: 161210004
+Supervisor Name: Dr. Somnath Rao Ramanathan
+Assigned Topic for Project: DBMS
+----------------------------------------------------------------
+Student Name: Tamanna Khalsa
+Roll No: 161210039
+Supervisor Name: Dr. Samir Somani
+Assigned Topic for Project: Computer Networks
+----------------------------------------------------------------
+Student Name: Nikhil Deo
+Roll No: 161210014
+Supervisor Name: Dr. Akanksha Raj Aggarwal
+Assigned Topic for Project: Machine Learning
+----------------------------------------------------------------
+Student Name: Raghav Sheth
+Roll No: 161220009
+Supervisor Name: Dr. Virat Shankar
+Assigned Topic for Project: App Development
+----------------------------------------------------------------
+Student Name: Vishal Kuruvilla
+Roll No: 161220003
+Supervisor Name: Dr. Veena Alias Konda
+Assigned Topic for Project: Big Data Analytics
+----------------------------------------------------------------
+Student Name: Azad Thakur
+Roll No: 161210012
+Supervisor Name: Dr. Jaswant Sampath
+Assigned Topic for Project: Gesture Recognition
+----------------------------------------------------------------
+Student Name: Anusha Jayaraman
+Roll No: 161210044
+Supervisor Name: Dr. Umesh Mannan
+Assigned Topic for Project: Web Development
+----------------------------------------------------------------
+Student Name: Pratima Raut
+Roll No: 161210022
+Supervisor Name: Dr. Jaswant Sampath
+Assigned Topic for Project: Gesture Recognition
+----------------------------------------------------------------
+Student Name: Hari Sethi
+Roll No: 161230055
+Supervisor Name: Dr. Veena Alias Konda
+Assigned Topic for Project: Big Data Analytics
+----------------------------------------------------------------
+Student Name: Anit Sood
+Roll No: 161210043
+Supervisor Name: Dr. Somnath Rao Ramanathan
+Assigned Topic for Project: DBMS
+----------------------------------------------------------------
+
+Student Name: Puja Joshi
+Roll No: 161230001
+Supervisor Name: Dr. Prabhat Kunda
+Assigned Topic for Project: Data Science
+----------------------------------------------------------------
+Student Name: Kirtida Ratta
+Roll No: 161230040
+Supervisor Name: Dr. Yadu Bakshi
+Assigned Topic for Project: Data Science
+----------------------------------------------------------------
+Student Name: Chiranjivi Ahluwalia
+Roll No: 161230021
+Supervisor Name: Dr. Umesh Mannan
+Assigned Topic for Project: Web Development
+----------------------------------------------------------------
+Student Name: Kalyani Bajaj
+Roll No: 161220005
+Supervisor Name: Dr. Smriti Modi
+Assigned Topic for Project: DBMS
+----------------------------------------------------------------
+Student Name: Tushar Dutta
+Roll No: 161220035
+Supervisor Name: Dr. Aayushman Rao
+Assigned Topic for Project: Deep Learning
+----------------------------------------------------------------
+Student Name: Arnav Aggarwal
+Roll No: 161220002
+Supervisor Name: Dr. Aayushman Rao
+Assigned Topic for Project: Deep Learning
+----------------------------------------------------------------
