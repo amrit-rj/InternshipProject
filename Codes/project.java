@@ -156,12 +156,6 @@ public class project extends JFrame implements ActionListener{
                     choice=C2;
                     map1.put(i,Integer.parseInt(map.get(i).get("Cap")));
                     c++;
-                    /*map2.clear();
-                    map2.put("Name",map.get(i).get("Name"));
-                    map2.put("Choice",C2);
-                    map2.put("Cap",map.get(i).get("Cap"));
-                    map1.put(i,map2);
-                    c++;*/
                 }
             }
         }
