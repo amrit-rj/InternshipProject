@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Project Assignment</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- <script type="text/javascript" src="faculty.json"></script> -->
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+input[type=number], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type=reset] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+input[type=reset]:hover {
+  background-color: #45a049;
+}
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+<figure class="aligncenter size-large is-resized"><img src="https://nitdelhi.ac.in/wp-content/uploads/2018/12/NEW-NIT-DELHI-LOGO1.png" alt="NIT Delhi Logo" width="698" height="99" /></figure>
+<h3>Project Assignment</h3>
+
+<div class="container">
+	<form  id="projectAssign" action="./action_page.php" method="GET">
+		<label for="name">Name</label>
+		<input type="text" id="name" name="name" placeholder="Your Name.." required="required">
+
+		<label for="roll">Roll No</label><br>
+		<input type="number" id="roll" name="roll" placeholder="Your Roll No.." required="required">
+
+		<label for="c1">First choice for project</label>
+		<select id="c1" name="c1">
+			<option value="analytics">Analytics Based on Social Networking Data</option>
+			<option value="appd">App Development</option>
+			<option value="arduino">Arduino</option>
+			<option value="automation">Automation</option>
+			<option value="bigdata">Big Data Analytics</option>
+			<option value="compnetworks">Computer Networks</option>
+			<option value="datascience">Data Science</option>
+			<option value="dbms">DBMS</option>
+			<option value="deep">Deep Learning</option>
+			<option value="gesture">Gesture Recognition</option>
+			<option value="iot">Internet of Things</option>
+			<option value="machine">Machine Learning</option>
+			<option value="matlab">MATLAB</option>
+			<option value="robotics">Robotics</option>
+			<option value="webd">Web Development</option>
+			<option value="wireless">Wireless Communications</option>
+		</select>
+    
+		<label for="c2">Second choice for project</label>
+		<select id="c2" name="c2">
+			<option value="analytics">Analytics Based on Social Networking Data</option>
+			<option value="appd">App Development</option>
+			<option value="arduino">Arduino</option>
+			<option value="automation">Automation</option>
+			<option value="bigdata">Big Data Analytics</option>
+			<option value="compnetworks">Computer Networks</option>
+			<option value="datascience">Data Science</option>
+			<option value="dbms">DBMS</option>
+			<option value="deep">Deep Learning</option>
+			<option value="gesture">Gesture Recognition</option>
+			<option value="iot">Internet of Things</option>
+			<option value="machine">Machine Learning</option>
+			<option value="matlab">MATLAB</option>
+			<option value="robotics">Robotics</option>
+			<option value="webd">Web Development</option>
+			<option value="wireless">Wireless Communications</option>
+		</select>
+
+		<input type="submit" onClick="myFunction()" value="Submit">
+		<input type="reset">
+  </form>
+</div>
+
+<!-- <script> -->
+	<!-- function myFunction() { -->
+		<!-- document.getElementById("projectAssign").submit(); -->
+		<!-- var name = document.getElementById("name").value; -->
+		<!-- var roll = document.getElementById("roll").value; -->
+		<!-- var ch1 = document.getElementById("c1"); -->
+		<!-- var c1 = ch1.options[ch1.selectedIndex].text; -->
+		<!-- var ch2 = document.getElementById("c2"); -->
+		<!-- var c2 = ch2.options[ch2.selectedIndex].text; -->
+		<!-- alert(name+roll+c1+c2); -->
+	  
+		<!-- const MongoClient = require('mongodb').MongoClient; -->
+		<!-- const uri = "mongodb+srv://amritraj:ZdrvX2SKC4YQ3IHn@faculty.rdr3j.gcp.mongodb.net/internship_project?retryWrites=true&w=majority"; -->
+		<!-- const client = new MongoClient(uri, { useNewUrlParser: true }); -->
+		<!-- client.connect(err => { -->
+		  <!-- const collection = client.db("internship_project").collection("faculty_details"); -->
+		  <!-- // perform actions on the collection object -->
+		  <!-- console.log(collection); -->
+		  <!-- client.close(); -->
+		<!-- }); -->
+
+	<!-- } -->
+<!-- </script> -->
+
+</body>
+</html>
